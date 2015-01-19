@@ -44,5 +44,5 @@ Temporary Items
 
 
 .sass-cache/
-css/
-!css/libs/
+css/*.css
+!css/libs/*.css
